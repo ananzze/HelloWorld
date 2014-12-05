@@ -55,3 +55,4 @@ class HelloWorld {
         return $this->greeting . "\n";
     }
 }
+?>
